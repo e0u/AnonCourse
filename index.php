@@ -60,6 +60,15 @@
                 <li class="dropdown-header">登出</li>
               </ul>
             </li>
+    
+         <form class="navbar-form navbar-right" role="form">
+            <div class="form-group">
+              <input type="text" placeholder="課程名稱或老師姓名" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">查詢</button>
+          </form> 
+   
+            
           </ul>
         </div>
         <!--/.nav-collapse -->
