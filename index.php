@@ -76,7 +76,41 @@
     </div>
 
     <div class="container">
- 
+    <div class="jumbotron">
+      <div class="container">
+        <h1>匿名課程資訊系統</h1>
+        <p>每次選課，都要問別人好不好過嗎？抽到了雷課，卻又不知道嗎？</p>
+        <p>這裡，給你更棒更友善的平台！給你輕易的分享和查詢課程資訊...</p>
+        <p>只要用 FB 帳號登入，就可以進行查詢和建立課程資訊...</p>
+        <p>不僅如此，除了自己之外...沒有人可以看到這則課程資訊是誰建立的噢！</p>
+        <p><a class="btn btn-primary btn-lg" role="button">了解更多 &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>最新消息</h2>
+          <p>2014.1.15 網站誕生</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>一般課程</h2>
+          <p><span class="label label-success">通識</span> 歌唱</p>
+          <p><span class="label label-info">專門</span> 統計學</p>
+       </div>
+        <div class="col-md-4">
+          <h2>教育學程</h2>
+          <p><span class="label label-default">教程</span> 普通數學</p>
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Powered By Rick Li</p>
+      </footer> 
     </div>
 
      <!-- /container -->
