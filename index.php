@@ -45,6 +45,7 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">首頁</a></li>
             <li><a href="#coruse">課程資訊</a></li>
+            <li><a href="#coruse"> Q&A </a></li>
 
             
           </ul>
@@ -93,7 +94,7 @@
         <div class="col-md-4">
           <h2>最新消息</h2>
           <p>2014.1.15 網站誕生</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>一般課程</h2>
