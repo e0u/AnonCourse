@@ -39,7 +39,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">NTUE 匿名課程資訊</a>
+          <a class="navbar-brand">NTUE 匿名課程資訊</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
