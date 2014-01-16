@@ -51,7 +51,7 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#About">關於我們</a></li>
-            <li class="active"><a>開發日誌</a></li>
+            <li class="active">開發日誌</li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">會員資訊 <b class="caret"></b></a>
               <ul class="dropdown-menu">
